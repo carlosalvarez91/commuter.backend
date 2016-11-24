@@ -1,0 +1,28 @@
+{
+  "name": "commuter",
+  "version": "1.0.0",
+  "description": "App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosalvarez91/commuter.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "ionic"
+  ],
+  "author": "carlos alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosalvarez91/commuter/issues"
+  },
+  "homepage": "https://github.com/carlosalvarez91/commuter#readme",
+  "dependencies": {
+    "express": "^4.14.0s",
+    "mongoose": "^4.7.0"
+  }
+}
